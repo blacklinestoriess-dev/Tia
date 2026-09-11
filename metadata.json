@@ -1,0 +1,10 @@
+{
+  "name": "Tia",
+  "description": "Voice-first personal AI assistant with a witty, intelligent Indian friend personality.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

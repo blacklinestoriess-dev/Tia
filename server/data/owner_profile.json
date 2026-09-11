@@ -1,0 +1,27 @@
+{
+  "name": "Anurag",
+  "relationship": "owner",
+  "location": "Patna, India",
+  "occupation_status": "working on a startup",
+  "personality_traits": [
+    "intelligent",
+    "curious",
+    "ambitious"
+  ],
+  "additional_memories": [
+    {
+      "id": "mem-init-1",
+      "fact": "Anurag is the creator and owner of Tia.",
+      "category": "identity",
+      "createdAt": "2026-09-10T23:47:24.000Z"
+    },
+    {
+      "id": "mem-init-2",
+      "fact": "Anurag lives in Patna, India and is building a startup.",
+      "category": "work",
+      "createdAt": "2026-09-10T23:47:24.000Z"
+    }
+  ],
+  "custom_fields": {},
+  "last_updated": "2026-09-11T06:54:10.333Z"
+}
